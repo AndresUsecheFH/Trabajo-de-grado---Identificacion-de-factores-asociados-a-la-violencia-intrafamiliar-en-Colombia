@@ -25,6 +25,9 @@ Con el fin de facilitar la visualización del código y sus resultados, se dispo
 Se puede consultar cada uno en los siguientes enlaces:
 
 🐍 Análisis en Python:
+
 https://andresusechefh.github.io/Trabajo-de-grado---Identificacion-de-factores-asociados-a-la-violencia-intrafamiliar-en-Colombia/Violencia_Intrafamiliar_2024.html
+
 📊 Análisis en R:
+
 https://andresusechefh.github.io/Trabajo-de-grado---Identificacion-de-factores-asociados-a-la-violencia-intrafamiliar-en-Colombia/
