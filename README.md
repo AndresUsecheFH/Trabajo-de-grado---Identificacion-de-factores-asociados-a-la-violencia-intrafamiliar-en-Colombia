@@ -7,8 +7,11 @@ Este repositorio contiene los códigos utilizados para identificar los factores 
 En el notebook Violencia_intrafamiliar_2024_.ipynb, ubicado en la carpeta codigo, se desarrollan las siguientes etapas:
 
 Preprocesamiento de datos
+
 Análisis exploratorio
+
 Identificación de asociaciones y su intensidad
+
 Construcción y visualización de tasas de incidencia a nivel departamental y de capital
 
 📈 Análisis en R
@@ -16,7 +19,9 @@ Construcción y visualización de tasas de incidencia a nivel departamental y de
 En R se complementa el análisis mediante:
 
 Prueba exacta de Fisher para asociaciones que no cumplen los supuestos del Chi-cuadrado
+
 Análisis de Correspondencias Múltiples (ACM)
+
 Segmentación mediante el algoritmo Fuzzy C-Means
 
 🌐 Reportes interactivos (HTML)
