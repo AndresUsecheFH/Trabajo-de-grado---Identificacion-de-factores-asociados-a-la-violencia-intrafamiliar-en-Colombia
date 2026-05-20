@@ -18,7 +18,13 @@ Prueba exacta de Fisher para asociaciones que no cumplen los supuestos del Chi-c
 Análisis de Correspondencias Múltiples (ACM)
 Segmentación mediante el algoritmo Fuzzy C-Means
 
-🌐 Reporte de la parte de R (HTML)
+🌐 Reportes interactivos (HTML)
 
-Se puede visualizar el reporte completo en el siguiente enlace:
-👉 https://andresusechefh.github.io/Trabajo-de-grado---Identificacion-de-factores-asociados-a-la-violencia-intrafamiliar-en-Colombia/
+Con el fin de facilitar la visualización del código y sus resultados, se dispone de dos reportes interactivos correspondientes a los análisis realizados en Python y en R.
+
+Se puede consultar cada uno en los siguientes enlaces:
+
+🐍 Análisis en Python:
+https://andresusechefh.github.io/Trabajo-de-grado---Identificacion-de-factores-asociados-a-la-violencia-intrafamiliar-en-Colombia/Violencia_Intrafamiliar_2024.html
+📊 Análisis en R:
+https://andresusechefh.github.io/Trabajo-de-grado---Identificacion-de-factores-asociados-a-la-violencia-intrafamiliar-en-Colombia/
