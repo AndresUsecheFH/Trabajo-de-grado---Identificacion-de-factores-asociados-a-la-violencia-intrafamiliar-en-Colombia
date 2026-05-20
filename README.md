@@ -10,6 +10,7 @@ Preprocesamiento de datos
 Análisis exploratorio
 Identificación de asociaciones y su intensidad
 Construcción y visualización de tasas de incidencia a nivel departamental y de capital
+
 📈 Análisis en R
 
 En R se complementa el análisis mediante:
