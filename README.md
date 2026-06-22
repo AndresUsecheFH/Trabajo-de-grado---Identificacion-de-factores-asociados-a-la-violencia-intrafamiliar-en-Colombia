@@ -16,7 +16,7 @@ En el notebook Violencia_intrafamiliar_2024_.ipynb, ubicado en la carpeta codigo
 
 📈 Análisis en R
 
-En R se complementa el análisis mediante:
+En R se continua el análisis mediante:
 
 -Prueba exacta de Fisher para asociaciones que no cumplen los supuestos del Chi-cuadrado
 
