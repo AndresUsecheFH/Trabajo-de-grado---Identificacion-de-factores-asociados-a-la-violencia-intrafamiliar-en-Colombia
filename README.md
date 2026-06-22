@@ -36,4 +36,4 @@ https://andresusechefh.github.io/Trabajo-de-grado---Identificacion-de-factores-a
 
 📊 Análisis en R:
 
-https://andresusechefh.github.io/Trabajo-de-grado---Identificacion-de-factores-asociados-a-la-violencia-intrafamiliar-en-Colombia/
+https://andresusechefh.github.io/Trabajo-de-grado---Identificacion-de-factores-asociados-a-la-violencia-intrafamiliar-en-Colombia/Violencia_intrafamiliar-ACM-FUZZY.html
